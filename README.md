@@ -1,28 +1,13 @@
 ### Olá, sejam bem vindos ao meu perfil 👋
 
-<!--
-**AilsonsJunior/AilsonsJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 - 🔭 Hoje estou trabalhando com desenvolvimento Web Full-stack
 - 🌱 Atualmente estou estudando PHP e o Framework Laravel 
 - 💬 Também estou a procura de novos desafios e especialização na minha area
 
 <div align="center">
   <a href="https://github.com/AilsonsJunior">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Ailsonsjunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ailsonsjunior&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ailsonsjunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="18em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ailsonsjunior&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
