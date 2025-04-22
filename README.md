@@ -12,7 +12,7 @@
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Ajr-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="Ajr-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original-wordmark.svg">
+  <img align="center" alt="Ajr-Laravel" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original-wordmark.svg">
   <img align="center" alt="Ajr-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Ajr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ajr-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
